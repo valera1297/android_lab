@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:id="@+id/Frag3"
     android:layout_height="match_parent"
     tools:context=".BlankFragment3"
-    android:background="#FF3A00">
+    android:orientation="vertical">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/myTextView3"
-        android:text="save" />
 
-</FrameLayout>
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_height="200px"
+            android:layout_width="400px"
+
+            android:scaleType="centerCrop"
+            android:src="@drawable/kuda" />
+
+        <TextView
+            android:id="@+id/textCountry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Russia" />
+
+        <TextView
+            android:id="@+id/textSquare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/square" />
+
+</LinearLayout>
