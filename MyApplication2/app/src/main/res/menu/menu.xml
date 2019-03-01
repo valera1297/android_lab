@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/chooseСountry"
+            android:title="choose country" />
+        <item
+            android:id="@+id/savedCountries"
+            android:title="saved countries" />
+        <item
+            android:id="@+id/countryInformation"
+            android:title="country information" />
+        <item
+            android:id="@+id/aboutThAuthor"
+            android:title="about the author" />
+    </group>
+</menu>
