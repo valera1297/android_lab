@@ -8,4 +8,57 @@
     <string name="nameApp">Путеводитель</string>
     <string name="nameAthor">Автор: Архипов Валерий Иванович</string>
     <string name="vesion">Версия: 1.3</string>
+    <string-array name="List_country">
+        <item>Россия</item>
+        <item>Армения</item>
+        <item>Абхазия</item>
+        <item>Австралия</item>
+        <item>Австрия</item>
+        <item>Азербайджан</item>
+        <item>Албания</item>
+        <item>Алжир</item>
+        <item>Ангола</item>
+        <item>Андорра</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Аргентина</item>
+        <item>Армения</item>
+        <item>Афганистан</item>
+        <item>Багамские Острова</item>
+        <item>Бангладеш</item>
+        <item>Барбадос</item>
+        <item>Бахрейн</item>
+        <item>Беларусь</item>
+        <item>Белиз</item>
+        <item>Бельгия</item>
+        <item>Бенин</item>
+        <item>Болгария</item>
+        <item>Боливия</item>
+        <item>Босния и Герцеговина</item>
+        <item>Ботсвана</item>
+        <item>Бразилия</item>
+        <item>Бруней</item>
+        <item>Буркина Фасо</item>
+        <item>Бурунди</item>
+        <item>Бутан</item>
+        <item>Вануату</item>
+        <item>Ватикан</item>
+        <item>Великобритания</item>
+        <item>Венгрия</item>
+        <item>Венесуэла</item>
+        <item>Восточный Тимоp</item>
+        <item>Вьетнам</item>
+        <item>Габон</item>
+        <item>Гаити</item>
+        <item>Гайана</item>
+        <item>Гамбия</item>
+        <item>Гана</item>
+        <item>Гватемала</item>
+        <item>Гвинея</item>
+        <item>Гвинея-Бисау</item>
+        <item>Германия</item>
+        <item>Гондурас</item>
+        <item>Гренада</item>
+        <item>Греция</item>
+        <item>Грузия</item>
+    </string-array>
 </resources>

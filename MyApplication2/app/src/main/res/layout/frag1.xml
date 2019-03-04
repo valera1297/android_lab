@@ -9,10 +9,10 @@
 
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/myTextView1"
-        android:text="inf" />
+        android:id="@+id/list_item"/>
 
 </FrameLayout>
